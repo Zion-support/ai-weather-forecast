@@ -1,10 +1,15 @@
-# AI Weather Forecast
+# 🌐 Zion App Network — Interlinks
 
-AI weather forecasting.
+**ai-weather-forecast** is part of the Zion Tech Group app network (630+ apps).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-agriculture-tech](https://github.com/Zion-support/ai-agriculture-tech) · [zion-field-weather](https://github.com/Zion-support/zion-field-weather) · [ai-deep-research](https://github.com/Zion-support/ai-deep-research) · [ai-data-viz](https://github.com/Zion-support/ai-data-viz)
+- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Industry Platforms](https://github.com/Zion-support/zion-network/blob/main/network/industry-platforms.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [ai-supply-chain](https://github.com/Zion-support/ai-supply-chain) — logistics & demand forecasting
+- [green-cloud-picker](https://github.com/Zion-support/green-cloud-picker) — carbon-aware region advisor
+- [ai-infrastructure-monitor](https://github.com/Zion-support/ai-infrastructure-monitor) — AI anomaly detection
+- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+
+---
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
