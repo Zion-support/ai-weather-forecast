@@ -1,15 +1,18 @@
-# 🌐 Zion App Network — Interlinks
+# AI Weather Forecast — Part of the Zion AI App Network
 
-**ai-weather-forecast** is part of the Zion Tech Group app network (630+ apps).
+Live app: https://zion-support.github.io/ai-weather-forecast/
 
-- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Industry Platforms](https://github.com/Zion-support/zion-network/blob/main/network/industry-platforms.md)
+## 🔗 Explore the network
+- 🏠 Homepage: https://ziontechgroup.com/
+- 🌐 App Network hub: https://ziontechgroup.com/zion-app-network/ · [GitHub hub](https://github.com/Zion-support/zion-app-network)
+- 🧰 All tools: https://ziontechgroup.com/tools/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Free discovery call: https://ziontechgroup.com/discovery/
 
 ## Related apps
-- [ai-supply-chain](https://github.com/Zion-support/ai-supply-chain) — logistics & demand forecasting
-- [green-cloud-picker](https://github.com/Zion-support/green-cloud-picker) — carbon-aware region advisor
-- [ai-infrastructure-monitor](https://github.com/Zion-support/ai-infrastructure-monitor) — AI anomaly detection
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [AI Supply Chain Optimizer](https://ziontechgroup.com/ai-supply-chain/)
+- [Route Density Planner](https://ziontechgroup.com/route-density-planner/)
+- [Energy Usage Optimizer](https://ziontechgroup.com/energy-usage-optimizer/)
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+© 2026 Zion Tech Group · https://ziontechgroup.com/
