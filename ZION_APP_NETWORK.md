@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/ai-weather-forecast/
-- 🔗 Related: [AI Agriculture Tech](https://ziontechgroup.com/ai-agriculture-tech/) · [Dispatch Window Optimizer](https://ziontechgroup.com/dispatch-window-optimizer/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [AI Agriculture Tech](https://ziontechgroup.com/ai-agriculture-tech/) · [Energy Usage Optimizer](https://ziontechgroup.com/energy-usage-optimizer/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
